@@ -39,8 +39,8 @@ You must have the following items configured locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR-REPO-URL-HERE]
-    cd [your-project-directory]
+    git clone https://github.com/vakninc/Index_Documents.git
+    cd Index_Documents
     ```
 
 2.  **Create Virtual Environment and Install Dependencies:**
@@ -74,3 +74,4 @@ You must have the following items configured locally:
     example: C:\Users\Admin\Desktop\text.pdf
 
     You may test your pipeline with this sample PDF: "https://arxiv.org/pdf/2510.16549"
+
